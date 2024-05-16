@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cameron Larson (He/Him)</h1>
+<h1 align="center">Hello 👋, I'm Cameron Larson (He/Him)</h1>
 <h3 align="center">Student Studying Computing Science at the University of Alberta</h3>
 
 - 🔭 I’m currently working on **Soundcloud Discord Status**
