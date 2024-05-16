@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Soundcloud Discord Status**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development (HTML/CSS/JS)**
 
 - 📫 How to reach me **imcelarson@gmail.com**
 
